@@ -72,7 +72,7 @@ The application emphasizes performance, security, and user-friendly interfaces, 
 - Cloudinary account
 
 ### Clone the Repository
-git clone https://github.com/Ayush-Raj189/E-Commerce-.git
+git clone [https://github.com/Ayush-Raj189/E-Commerce-.git](https://github.com/RohitSoni1234/E-commerce-Website)
 
 cd e-commerce-project
 
